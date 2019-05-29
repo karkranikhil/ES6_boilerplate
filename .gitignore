@@ -1,0 +1,4 @@
+.sonarlint
+node_modules
+/.sonarlint
+/node_modules
